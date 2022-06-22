@@ -7,5 +7,6 @@ public class Ex09_06 {
 	
 		String str3 = new String("abc");	//새로운 String 인스턴스를 생성
 		String str4 = new String("abc");	//새로운 String 인스턴스를 생성
+		
 	}
 }
